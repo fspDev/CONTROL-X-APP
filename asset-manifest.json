@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ANJOR-APP/static/css/main.852d2ab4.css",
+    "main.js": "/ANJOR-APP/static/js/main.7ca3e44b.js",
+    "static/js/453.1b2cfe1d.chunk.js": "/ANJOR-APP/static/js/453.1b2cfe1d.chunk.js",
+    "static/media/ruleta.png": "/ANJOR-APP/static/media/ruleta.a3a8d46b7f4950f9fe3a.png",
+    "static/media/logo.png": "/ANJOR-APP/static/media/logo.0287faac5c365498ad9a.png",
+    "static/media/centro.png": "/ANJOR-APP/static/media/centro.17db7f996b76513218f5.png",
+    "index.html": "/ANJOR-APP/index.html",
+    "main.852d2ab4.css.map": "/ANJOR-APP/static/css/main.852d2ab4.css.map",
+    "main.7ca3e44b.js.map": "/ANJOR-APP/static/js/main.7ca3e44b.js.map",
+    "453.1b2cfe1d.chunk.js.map": "/ANJOR-APP/static/js/453.1b2cfe1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.852d2ab4.css",
+    "static/js/main.7ca3e44b.js"
+  ]
+}
