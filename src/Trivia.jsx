@@ -8,7 +8,7 @@ function Trivia() {
   const preguntas = [
     {
       pregunta: '¿Cuál es la marca de aceites de motor utilizada por Ferrari?',
-      opciones: ['Shell', 'YPF', 'Castrol'],
+      opciones: ['Shell', 'esso', 'Castrol'],
       respuestaCorrecta: 'Shell'
     },
     {
